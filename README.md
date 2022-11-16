@@ -1,5 +1,5 @@
 # Threat-Intelligence
-Share Threat Intelligence For you
+Share Threat Intelligence Blogs and IOCs For you
 
 # Monitor Security Enterprise Blog  
 
