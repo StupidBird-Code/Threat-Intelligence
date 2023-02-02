@@ -11,3 +11,4 @@ https://www.welivesecurity.com/research/
 https://securelist.com/  
 https://research.checkpoint.com/category/cpradio/  
 https://blog.group-ib.com/#rec332413860  
+and so on
